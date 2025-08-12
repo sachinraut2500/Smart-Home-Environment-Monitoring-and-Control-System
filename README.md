@@ -7,7 +7,7 @@ This project simulates a smart home environment monitoring system using IoT conc
 - Simulated sensor readings for temperature, humidity, and light level.
 - Actuator control to switch a smart light ON or OFF based on light intensity.
 - Data logging to CSV file.
-- Data visualization with time-series plots.
+- Data visualization with time-series plots..
 - Modular Python code suitable for extension to real sensor integration and cloud communication.
 
 ## How to Run
