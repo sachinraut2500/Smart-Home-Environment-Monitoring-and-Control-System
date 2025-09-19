@@ -17,7 +17,7 @@ This project simulates a smart home environment monitoring system using IoT conc
    python iot_smart_home.py
 Requirements
 Python 3.x
-
+--------------------------
 matplotlib (for plotting)
 
 Install matplotlib if needed:
