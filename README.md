@@ -10,6 +10,8 @@ This project simulates a smart home environment monitoring system using IoT conc
 - Data visualization with time-series plots..
 - Modular Python code suitable for extension to real sensor integration and cloud communication.
 
+- ----------------------------
+
 ## How to Run
 1. Clone the repository.
 2. Run `iot_smart_home.py` using Python 3.
