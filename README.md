@@ -50,7 +50,7 @@ python
 Copy
 Edit
 
----
+--------
 
 ### How to get this running in **Google Colab**:
 
