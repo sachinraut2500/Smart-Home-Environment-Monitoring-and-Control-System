@@ -1,5 +1,5 @@
 # IoT Smart Home Environment Monitoring and Control
-
+---
 ## Overview
 This project simulates a smart home environment monitoring system using IoT concepts. It reads simulated sensor data for temperature, humidity, and light levels, controls a virtual smart light based on light intensity, logs data to a CSV file, and visualizes the collected data.
 -----
